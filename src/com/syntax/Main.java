@@ -8,6 +8,6 @@ public class Main {
             System.out.println("hello! I am a cat");
             System.out.println("hello! I am a dog");
         }
-
+        System.out.println("all done");
     }
 }
